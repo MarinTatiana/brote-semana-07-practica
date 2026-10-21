@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Brote",
+    "name": "Brote - Tatiana Marín (LTMM)",
     "slug": "brote-planificador",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -9,11 +9,11 @@
     "userInterfaceStyle": "automatic",
     "backgroundColor": "#F8F5ED",
     "ios": {
-      "bundleIdentifier": "edu.uets.brote.demo",
+      "bundleIdentifier": "edu.uets.brote.ltmm",
       "icon": "./assets/images/icon.png"
     },
     "android": {
-      "package": "edu.uets.brote.demo",
+      "package": "edu.uets.brote.ltmm",
       "adaptiveIcon": {
         "backgroundColor": "#F6F0E5",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
